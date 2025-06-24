@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "symbol": "€",
+      "name": "Euro",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 2,
+      "code": "EUR",
+      "name_plural": "Euros",
+      "type": "fiat"
+    },
+    {
+      "symbol": "£",
+      "name": "Pound",
+      "symbol_native": "£",
+      "decimal_digits": 2,
+      "rounding": 2,
+      "code": "GBP",
+      "name_plural": "Pounds",
+      "type": "fiat"
+    }
+  ]
+}

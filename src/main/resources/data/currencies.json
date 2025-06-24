@@ -1,0 +1,54 @@
+{
+  "data": {
+    "EUR": {
+      "symbol": "€",
+      "name": "Euro",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "EUR",
+      "name_plural": "Euros",
+      "type": "fiat"
+    },
+    "USD": {
+      "symbol": "$",
+      "name": "US Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "USD",
+      "name_plural": "US dollars",
+      "type": "fiat"
+    },
+    "GBP": {
+      "symbol": "£",
+      "name": "British Pound Sterling",
+      "symbol_native": "£",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "GBP",
+      "name_plural": "British pounds sterling",
+      "type": "fiat"
+    },
+    "SEK": {
+      "symbol": "Skr",
+      "name": "Swedish Krona",
+      "symbol_native": "kr",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "SEK",
+      "name_plural": "Swedish kronor",
+      "type": "fiat"
+    },
+    "CAD": {
+      "symbol": "CA$",
+      "name": "Canadian Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CAD",
+      "name_plural": "Canadian dollars",
+      "type": "fiat"
+    }
+  }
+}
